@@ -1,2 +1,1 @@
-# Ecom-Store
-E Commerce Website
+# Commerce
